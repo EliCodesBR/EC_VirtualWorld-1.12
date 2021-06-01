@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ResetAPI:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="ResetAPI.jar">
+      <element id="module-output" name="EC_Reset 1.12" />
+    </root>
+  </artifact>
+</component>
